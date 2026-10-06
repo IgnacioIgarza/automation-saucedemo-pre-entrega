@@ -41,3 +41,5 @@ pytest
 - Validar si es visible el carrito de compras y el filtro de productos
 
 - Validar que el producto agregado esté presente en el carrito de compras
+
+![Vista de las pruebas realizadas](https://github.com/IgnacioIgarza/automation-saucedemo-pre-entrega/blob/main/img/imagen%20pre-entrega.bmp)

@@ -1,5 +1,5 @@
 # Automatización QA de la página Saucedemo.com
-### Pre entrega del Cursode Automatización QA 
+### Pre entrega del Curso de Automatización QA 
 ### de la Plataforma de estudio
 ![Logo de Talento Tech](https://aulasvirtuales.bue.edu.ar/pluginfile.php/1/theme_academiaba/logo/1741644066/logo_header.jpg)
 
@@ -9,7 +9,7 @@
 - Git
 - Github
 
-## Instalación dedependencias
+## Instalación de dependencias
 ```python
 pip install selenium
 ```
